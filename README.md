@@ -15,16 +15,6 @@
 
 ---
 
-### 👨‍🎓 About Me
-
-- 🎓 Software Engineering
-- 💻 Building full-stack web applications
-- 🛠️ Developing desktop systems using C#
-- 📚 Improving Data Structures & Clean Code practices
-- ⚡ I build, Test and make changes
-
----
-
 ### 🔥 Current Focus
 
 - Building scalable full-stack applications
