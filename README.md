@@ -31,9 +31,6 @@
 
 ---
 
-<div align="left">
-<img src="https://raw.githubusercontent.com/IT22052124/IT22052124/main/.github/gojo.gif" width="140" align="right">
-
 ## 🛠 Languages & Tools
 
 <table>
