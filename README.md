@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/deen-mj-deen-0786352b7/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://www.facebook.com/deenmj.deen/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-000?style=flat&logo=facebook&logoColor=1877F2"/>
+</a>
 <a href="https://www.instagram.com/mr_deen_434/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram&logoColor=E4405F"/>
 </a>
