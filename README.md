@@ -24,10 +24,10 @@
 
 ---
 
-- 🌱 Currently learning **AI / ML & System Design**
-- 💡 Passionate about **Backend Development & Scalable Systems**
-- ⚡ Love building real-world applications
-- 🏍️ Bike lover & tech explorer
+- Building scalable full-stack applications
+- Strengthening Data Structures & Algorithms
+- Writing clean and maintainable code
+- Improving backend architecture skills
 
 ---
 
