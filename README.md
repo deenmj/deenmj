@@ -89,8 +89,6 @@
 - 🧸 **Griffindo Toys System**
 - 🎬 **Quiet Attic Films Platform**
 
-## 📊 GitHub Stats
-
 ## 📈 Activity Graph
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DEENmj&theme=tokyo-night&hide_border=true)](https://github.com/DEENmj)
