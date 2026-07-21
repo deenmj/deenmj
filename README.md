@@ -29,19 +29,22 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="380"
+<img align="right" width="380"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <div align="center">
-  <h2>💫 About Me</h2>
+  <b><font size="5">💫 About Me</font></b>
 </div>
 
-- 🚀 Full Stack Developer passionate about modern web technologies
-- 🔭 Building scalable full-stack applications
-- 🌱 Continuously learning Data Structures & Algorithms
-- 💡 Writing clean, maintainable and reusable code
-- ⚙️ Designing robust backend architectures
-- 🎯 Always learning and building real-world software
+<br>
+
+💻 <b>Full Stack Developer</b><br><br>
+
+🚀 Building scalable applications<br>
+🌱 Learning Data Structures & Algorithms<br>
+⚙️ Backend Architecture Enthusiast<br>
+💡 Clean Code Advocate<br>
+🎯 Always building something new
 
 <br clear="right"/>
 
