@@ -34,12 +34,12 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <h2 align="center">💫 About Me</h2>
 
-- 🚀 **Full Stack Developer**
-- 💻 Passionate about building modern web applications
-- 🔭 Currently building scalable full-stack systems
-- 🌱 Continuously learning **Data Structures & Algorithms**
-- ⚙️ Focused on clean architecture and backend development
-- 🎯 Always exploring new technologies and solving real-world problems
+- 🚀 Full Stack Developer passionate about modern web technologies
+- 🔭 Building scalable full-stack applications
+- 🌱 Continuously learning Data Structures & Algorithms
+- 💡 Writing clean, maintainable and reusable code
+- ⚙️ Designing robust backend architectures
+- 🎯 Always learning and building real-world software
 
 <br clear="right"/>
 
