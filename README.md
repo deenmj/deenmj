@@ -32,7 +32,8 @@
 <img align="right" width="420"
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-<h2>💫 About me </h2>
+💫 ABOUT ME
+
 - 🚀 Full Stack Developer passionate about modern web technologies
 - 🔭 Building scalable full-stack applications
 - 🌱 Continuously learning Data Structures & Algorithms
