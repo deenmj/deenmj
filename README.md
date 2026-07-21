@@ -30,9 +30,9 @@
 
 ---
 <img align="right" width="420"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## <h2>💫 About Me</h2>
+## <b>💫 About Me</b><br><br>
 
 - 🚀 Full Stack Developer passionate about modern web technologies
 - 🔭 Building scalable full-stack applications
