@@ -29,7 +29,7 @@
 </p>
 
 ---
-<img align="right" width="600" height="500"
+<img align="right" width="500" height="400"
 src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
 ## 💫 About Me
