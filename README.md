@@ -29,23 +29,19 @@
 </p>
 
 ---
-<table>
-  <tr>
-    <td width="55%">
-      
+<img align="right" width="380"
+src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
-🔭 Building scalable full-stack applications<br>
-🌱 Strengthening Data Structures & Algorithms<br>
-💡 Writing clean and maintainable code<br>
-🚀 Improving backend architecture skills 
-    </td>
-  
-<td width="45%" align="right">
-<img width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+## 💫 About Me
 
-</td>
-  </tr>
-</table>
+- 🚀 Full Stack Developer passionate about modern web technologies
+- 🔭 Building scalable full-stack applications
+- 🌱 Continuously learning Data Structures & Algorithms
+- 💡 Writing clean, maintainable and reusable code
+- ⚙️ Designing robust backend architectures
+- 🎯 Always learning and building real-world software
+
+<br clear="right"/>
 
 ---
 
