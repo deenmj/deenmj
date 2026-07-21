@@ -38,8 +38,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br>
 
-💻 <b>Full Stack Developer</b><br><br>
-
+💻 <h3>Full Stack Developer</h3><br><br>
 🚀 Building scalable applications<br>
 🌱 Learning Data Structures & Algorithms<br>
 ⚙️ Backend Architecture Enthusiast<br>
