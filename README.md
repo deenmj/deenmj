@@ -33,11 +33,11 @@
   <tr>
     <td width="55%">
       
-      <p>
+
 🔭 Building scalable full-stack applications<br>
 🌱 Strengthening Data Structures & Algorithms<br>
 💡 Writing clean and maintainable code<br>
-🚀 Improving backend architecture skills </p>
+🚀 Improving backend architecture skills 
     </td>
   
 <td width="45%" align="center">
