@@ -40,7 +40,7 @@
 🚀 Improving backend architecture skills 
     </td>
   
-<td width="45%" align="center">
+<td width="45%" align="right">
 <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </td>
