@@ -30,7 +30,7 @@
 
 ---
 <img align="right" width="420"
-src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ## <b>💫 About Me</b><br><br>
 
