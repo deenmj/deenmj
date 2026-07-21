@@ -24,7 +24,7 @@ jobs:
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Shadir18
+          github_user_name: deenmj
 
 
       - name: Push pacman graph to output branch
