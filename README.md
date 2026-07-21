@@ -32,7 +32,9 @@
 <img align="right" alt="Coding" width="380"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<h2 align="center">💫 About Me</h2>
+<div align="center">
+  <h2>💫 About Me</h2>
+</div>
 
 - 🚀 Full Stack Developer passionate about modern web technologies
 - 🔭 Building scalable full-stack applications
