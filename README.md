@@ -29,11 +29,22 @@
 </p>
 
 ---
+<table>
+  <tr>
+    <td width="55%">
+      
+      <p>🔭 Building scalable full-stack applications<br>
+🌱 Strengthening Data Structures & Algorithms<br>
+💡 Writing clean and maintainable code<br>
+🚀 Improving backend architecture skills </p>
+    </td>
+  
+<td width="45%" align="center">
+<img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- Building scalable full-stack applications
-- Strengthening Data Structures & Algorithms
-- Writing clean and maintainable code
-- Improving backend architecture skills
+</td>
+  </tr>
+</table>
 
 ---
 
