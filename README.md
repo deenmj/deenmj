@@ -29,10 +29,10 @@
 </p>
 
 ---
-<img align="right" width="500" height="400"
-src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<img align="right" width="420"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 💫 About Me
+## <h2>💫 About Me</h2>
 
 - 🚀 Full Stack Developer passionate about modern web technologies
 - 🔭 Building scalable full-stack applications
