@@ -89,13 +89,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
-## Contribution Activity
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph.svg">
-</picture>
 
 ## 🚀 Projects
 
@@ -106,9 +100,14 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 🧸 Griffindo Toys System
 - 🎬 Quiet Attic Films Platform
 
-## 📈 Activity Graph
+## Contribution Activity
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DEENmj&theme=tokyo-night&hide_border=true)](https://github.com/DEENmj)
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <p align="center">
   ✨ Building modern, scalable systems with clean code ✨
