@@ -30,7 +30,7 @@
 
 ---
 <img align="right" width="420"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 💫 ABOUT ME
 
@@ -88,6 +88,14 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
+
+## Contribution Activity
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🚀 Projects
 
