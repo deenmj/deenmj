@@ -30,7 +30,7 @@
 
 ---
 <img align="right" width="420"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 ## <b>💫 About Me</b><br><br>
 
