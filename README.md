@@ -5,12 +5,6 @@
 <h1 align="center">Hi 👋🏻, I'm Deen Mohamed</h1>
 
 <p align="center">
-🚀 Full Stack Developer <br>
-💻 Software Engineering Student <br>
-⚡ Turning ideas into real-world systems
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/deen-mj-deen-0786352b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
