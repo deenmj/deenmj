@@ -2,7 +2,7 @@
 
 [![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
 
-<h1 align="center">Hi 👋🏻, I'm Deen Mohamd</h1>
+<h1 align="center">Hi 👋🏻, I'm Deen Mohamed</h1>
 
 <p align="center">
 🚀 Full Stack Developer <br>
