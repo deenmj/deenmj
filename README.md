@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=DEENmj&color=blueviolet" />
-[![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
 
+[![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
 
 <h1 align="center">Hi 👋🏻, I'm Deen Mohamed</h1>
 
