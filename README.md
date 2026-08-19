@@ -91,12 +91,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🚀 Projects
 
-- 🚗 Intelligent Vehicle Service Reminder & Maintenance Tracking System
-- 🚗 ABC Rent A Car System
-- 📱 Flexify Platform
-- 🌐 LAN Design & Implementation – Alliance Health
-- 🧸 Griffindo Toys System
-- 🎬 Quiet Attic Films Platform
+
 
 ## Contribution Activity
 
