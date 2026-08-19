@@ -107,6 +107,4 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </picture>
 
 
-<p align="center">
-  ✨ Building modern, scalable systems with clean code ✨
-</p>
+
