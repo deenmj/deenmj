@@ -106,5 +106,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deenmj/deenmj/output/pacman-contribution-graph.svg">
 </picture>
 
-
+<p align="center">
+  ✨ Building modern, scalable systems with clean code ✨
+</p>
 
