@@ -30,7 +30,14 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <b><font size="5">💫 About Me</font></b>
 </div>
 
+<br>
 
+💻 <b>Full Stack Developer</b><br><br>
+🚀 Building scalable applications<br>
+🌱 Learning Data Structures & Algorithms<br>
+⚙️ Backend Architecture Enthusiast<br>
+💡 Clean Code Advocate<br>
+🎯 Always building something new
 
 <br clear="right"/>
 
