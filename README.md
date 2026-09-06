@@ -2,7 +2,7 @@
 
 [![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
 
-<h1 align="center">Hi 👋🏻, I'm Deen Mohamed</h1>
+<h1 align="center">Hi 👋🏻, I'm Deen 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deen-mj-deen-0786352b7/" target="_blank">
